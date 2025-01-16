@@ -1,5 +1,5 @@
-def driving_simulator():
-    print("Welcome to the Driving Simulator!")
+def car_logic_simulator():
+    print("Welcome to the car logic Simulator!")
     print("Controls:")
     print(" - Press 'c' for clutch")
     print(" - Press 'i' to turn on the ignition")
@@ -156,4 +156,4 @@ def driving_simulator():
             print("Invalid command or action. Check the instructions.")
 
 # Start the simulator
-driving_simulator()
+car_logic_simulator()
