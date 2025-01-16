@@ -1,4 +1,4 @@
-# Driving Simulation Command-Line Project
+# Car Logic Simulation Project
 
 This project simulates a basic car driving experience using command-line inputs. The simulation requires users to follow logical steps to operate a car correctly, including actions like starting the ignition, releasing the handbrake, pressing the clutch, shifting gears, and accelerating. The simulation also enforces proper driving protocols, ensuring realistic behavior.
 
