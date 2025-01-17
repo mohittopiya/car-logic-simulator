@@ -95,6 +95,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Contact
 For any questions or feedback, feel free to reach out:
 - **Email:** jdgt.mt.2007@gmail.com
-- **GitHub:**mohittopiya(https://github.com/yourusername)
+- **GitHub:** mohittopiya
 
 
